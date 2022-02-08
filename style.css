@@ -1,0 +1,32 @@
+.first {
+    width: 90%;
+    border: 1px solid white;
+}
+
+.second {
+    width: 90%;
+    background-color: #EEEEEE;
+    border: 1px solid white;
+}
+
+.third {
+    width: 90%;
+    table-layout: fixed;
+    text-align: center;
+    height: max-content;
+}
+
+.sat1 {
+    background-color: #7EE5DA;
+    height: 5em;
+}
+
+.sat2 {
+    background-color: #70CCC2;
+    height: 5em;
+}
+
+.sat3 {
+    background-color: #62B3AA;
+    height: 5em;
+}
